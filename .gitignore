@@ -1,0 +1,9 @@
+# Outputs
+out/*
+
+# Modelsim
+modelsim.ini
+transcript
+work/*
+*.wlf
+wave*
