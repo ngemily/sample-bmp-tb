@@ -10,6 +10,11 @@ Finally, when the simulation is over, the output is written to a new bitmap file
 
 A sample DUT and sample input image are supplied.
 
+Requirements
+------------
+This project requires Modelsim.  Please ensure that Modelsim executables are on
+your path.
+
 Quick Start
 -----------
 Run without gui
